@@ -18,13 +18,10 @@ Din punct de vedere teoretic, o criză reprezintă o **perturbare violentă a ec
 *   **Inflația / Deflația:** 
     *   *Inflația* (creșterea prețurilor) apare în crize de ofertă (ex: 1973).
     *   *Deflația* (scăderea prețurilor) apare în crize de cerere (ex: 1929), fiind extrem de periculoasă deoarece blochează consumul (oamenii așteaptă prețuri și mai mici).
-       <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/f83042ca-67b2-42a5-aa63-24b020e8764d" />
+       <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/f83042ca-67b2-42a5-aa63-24b020e8764d" />
 *   **Rata Dobânzii:** "Prețul banilor". Băncile centrale manipulează dobânda pentru a stimula sau frâna economia. În criză, dobânzile sunt de obicei coborâte pentru a ieftini creditul.
   
-  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/f83042ca-67b2-42a5-aa63-24b020e8764d" />
-  
-  
-<img width="600" height="345" alt="image" src="https://github.com/user-attachments/assets/862bde62-e52e-40f1-9389-419d39d4ac7c" />
+  <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/862bde62-e52e-40f1-9389-419d39d4ac7c" />
 
 
 
@@ -35,7 +32,7 @@ Economia funcționează în cicluri. O criză apare adesea după o perioadă de 
 3. **Recesiunea (Crahul):** Corecția brutală a prețurilor și scăderea producției.
 4. **Relansarea:** Curățarea economiei de firmele ineficiente și reluarea creșterii.
 
-<img width="756" height="492" alt="image" src="https://github.com/user-attachments/assets/51973065-5e6f-4508-840e-f8a8df481b79" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/51973065-5e6f-4508-840e-f8a8df481b79" />
 
 
 ### 3. Factori de Propagare (De ce se extinde?)
