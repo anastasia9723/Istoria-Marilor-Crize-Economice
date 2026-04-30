@@ -8,6 +8,9 @@ Bine ai venit pe platforma de analiză a marilor eșecuri economice. Acest site 
 
 Din punct de vedere teoretic, o criză reprezintă o **perturbare violentă a echilibrului general al pieței**, în care mecanismele de autoreglare (mâna invizibilă a lui Adam Smith) încetează să mai funcționeze eficient pe termen scurt.
 
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/5bce45d3-01f3-4b08-9274-e0b425b84bb8" />
+
+
 ### 1. Triada Indicatorilor în Criză
 Într-o criză, urmărim evoluția a trei variabile fundamentale:
 
@@ -16,6 +19,11 @@ Din punct de vedere teoretic, o criză reprezintă o **perturbare violentă a ec
     *   *Inflația* (creșterea prețurilor) apare în crize de ofertă (ex: 1973).
     *   *Deflația* (scăderea prețurilor) apare în crize de cerere (ex: 1929), fiind extrem de periculoasă deoarece blochează consumul (oamenii așteaptă prețuri și mai mici).
 *   **Rata Dobânzii:** "Prețul banilor". Băncile centrale manipulează dobânda pentru a stimula sau frâna economia. În criză, dobânzile sunt de obicei coborâte pentru a ieftini creditul.
+  
+  <img width="850" height="545" alt="image" src="https://github.com/user-attachments/assets/f83042ca-67b2-42a5-aa63-24b020e8764d" />
+<img width="637" height="345" alt="image" src="https://github.com/user-attachments/assets/862bde62-e52e-40f1-9389-419d39d4ac7c" />
+
+
 
 ### 2. Ciclul de Boom și Bust
 Economia funcționează în cicluri. O criză apare adesea după o perioadă de **expansiune nesustenabilă**:
@@ -23,6 +31,9 @@ Economia funcționează în cicluri. O criză apare adesea după o perioadă de 
 2. **Vârful (Peak):** Apar "bulele" (prețuri nerealiste).
 3. **Recesiunea (Crahul):** Corecția brutală a prețurilor și scăderea producției.
 4. **Relansarea:** Curățarea economiei de firmele ineficiente și reluarea creșterii.
+
+<img width="756" height="492" alt="image" src="https://github.com/user-attachments/assets/51973065-5e6f-4508-840e-f8a8df481b79" />
+
 
 ### 3. Factori de Propagare (De ce se extinde?)
 *   **Efectul de Multiplicator Inversat:** Când o fabrică se închide, muncitorii nu mai au salarii, deci nu mai cumpără de la magazinul local, care la rândul lui nu mai comandă marfă, ducând la noi închideri.
