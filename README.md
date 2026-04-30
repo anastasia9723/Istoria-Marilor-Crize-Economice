@@ -20,8 +20,9 @@ Din punct de vedere teoretic, o criză reprezintă o **perturbare violentă a ec
     *   *Deflația* (scăderea prețurilor) apare în crize de cerere (ex: 1929), fiind extrem de periculoasă deoarece blochează consumul (oamenii așteaptă prețuri și mai mici).
 *   **Rata Dobânzii:** "Prețul banilor". Băncile centrale manipulează dobânda pentru a stimula sau frâna economia. În criză, dobânzile sunt de obicei coborâte pentru a ieftini creditul.
   
-  <img width="850" height="545" alt="image" src="https://github.com/user-attachments/assets/f83042ca-67b2-42a5-aa63-24b020e8764d" />
-<img width="637" height="345" alt="image" src="https://github.com/user-attachments/assets/862bde62-e52e-40f1-9389-419d39d4ac7c" />
+  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/f83042ca-67b2-42a5-aa63-24b020e8764d" />
+  
+<img width="600" height="345" alt="image" src="https://github.com/user-attachments/assets/862bde62-e52e-40f1-9389-419d39d4ac7c" />
 
 
 
