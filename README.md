@@ -1,9 +1,8 @@
-# Crize Economice
+<h1 align="center">Crize Economice</h1>
+
 ## Anatomia Macroeconomică a Crizelor
 
 Bine ai venit pe platforma de analiză a marilor eșecuri economice. Acest site explorează mecanismele din spatele crizelor, transformând evenimentele istorice în lecții de teorie economică aplicată.
-
----
 
 ## Ce este, de fapt, o criză economică?
 
@@ -63,5 +62,4 @@ Fiecare dintre crizele de mai jos reprezintă un eșec al unui mecanism economic
 | **1973** | **Criza Petrolului** | Șocul Ofertei (Stagflație) | [Vezi Analiza 1973](1973.md) |
 | **2008** | **Marea Recesiune** | Riscul Sistemic Financiar | [Vezi Analiza 2008](2008.md) |
 
----
 > "Cei care nu își amintesc trecutul sunt condamnați să îl repete... cu dobândă."
