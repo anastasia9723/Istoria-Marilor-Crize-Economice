@@ -1,3 +1,10 @@
+<p align="center">
+<img width="1024" height="234" alt="image" src="https://github.com/user-attachments/assets/4496dc0c-a3de-4b4a-b0a4-45cdc0098c40" />
+
+| [**PAGINA PRINCIPALA**](README.md) | [CRIZA DIN 1907](1907.md) | [MAREA DEPRESIUNE](1929.md) | [CRIZA PETROLULUI](1973.md) | [MAREA RECESIUNE](2008.md) |
+| :---: | :---: | :---: | :---: | :---: |
+
+---
 <h1 align="center">Crize Economice</h1>
 
 ### Anatomia Macroeconomică a Crizelor
