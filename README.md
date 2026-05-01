@@ -1,6 +1,6 @@
 <h1 align="center">Crize Economice</h1>
 
-## Anatomia Macroeconomică a Crizelor
+### Anatomia Macroeconomică a Crizelor
 
 Bine ai venit pe platforma de analiză a marilor eșecuri economice. Acest site explorează mecanismele din spatele crizelor, transformând evenimentele istorice în lecții de teorie economică aplicată.
 
