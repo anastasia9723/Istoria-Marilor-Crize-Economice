@@ -1,3 +1,4 @@
+# Crize Economice
 ## Anatomia Macroeconomică a Crizelor
 
 Bine ai venit pe platforma de analiză a marilor eșecuri economice. Acest site explorează mecanismele din spatele crizelor, transformând evenimentele istorice în lecții de teorie economică aplicată.
