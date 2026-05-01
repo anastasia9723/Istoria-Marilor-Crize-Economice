@@ -4,14 +4,14 @@ Bine ai venit pe platforma de analiză a marilor eșecuri economice. Acest site 
 
 ---
 
-## 🧠 Ce este, de fapt, o criză economică?
+## Ce este, de fapt, o criză economică?
 
 Din punct de vedere teoretic, o criză reprezintă o **perturbare violentă a echilibrului general al pieței**, în care mecanismele de autoreglare (mâna invizibilă a lui Adam Smith) încetează să mai funcționeze eficient pe termen scurt.
 
 <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/5bce45d3-01f3-4b08-9274-e0b425b84bb8" />
 
 
-### 1. Triada Indicatorilor în Criză
+### Triada Indicatorilor în Criză
 Într-o criză, urmărim evoluția a trei variabile fundamentale:
 
 *   **PIB (Produsul Intern Brut):** Valoarea totală a bunurilor și serviciilor. În criză, PIB-ul scade (recesiune dacă scade timp de două trimestre consecutive), semnalând o contracție a activității.
@@ -25,7 +25,7 @@ Din punct de vedere teoretic, o criză reprezintă o **perturbare violentă a ec
 
 
 
-### 2. Ciclul de Boom și Bust
+### Ciclul de Boom și Bust
 Economia funcționează în cicluri. O criză apare adesea după o perioadă de **expansiune nesustenabilă**:
 1. **Expansiunea:** Credit ieftin, investiții masive, optimism.
 2. **Vârful (Peak):** Apar "bulele" (prețuri nerealiste).
@@ -35,14 +35,21 @@ Economia funcționează în cicluri. O criză apare adesea după o perioadă de 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/51973065-5e6f-4508-840e-f8a8df481b79" />
 
 
-### 3. Factori de Propagare (De ce se extinde?)
-*   **Efectul de Multiplicator Inversat:** Când o fabrică se închide, muncitorii nu mai au salarii, deci nu mai cumpără de la magazinul local, care la rândul lui nu mai comandă marfă, ducând la noi închideri.
-*   **Hazardul Moral:** Când instituțiile financiare își asumă riscuri excesive sperând că statul le va salva în caz de eșec.
-*   **Psihologia Maselor:** Economia este 80% încredere. Când încrederea dispare, circulația banilor se oprește.
+## Mecanisme de Propagare și Amplificare
 
+O criză localizată într-un sector (ex: imobiliar) devine globală prin trei canale principale:
+
+1.  **Efectul de Multiplicator Inversat:** Scăderea investițiilor cu 1 unitate duce la o scădere a veniturilor cu mai mult de 1 unitate, generând un cerc vicios de contracție.
+2.  **Asimetria Informațională:** În momente de incertitudine, băncile nu mai cunosc solvabilitatea partenerilor, ducând la blocarea **pieței interbancare** (inima sistemului financiar).
+3.  **Hazardul Moral (Moral Hazard):** Politicile care salvează instituțiile iresponsabile pot încuraja riscuri și mai mari în viitor.
 ---
 
+## Politici de Răspuns: Intervenția Statului
 
+Atunci când "mâna invizibilă" eșuează, autoritățile intervin prin două pârghii:
+
+* **Politica Monetară:** Gestionată de Banca Centrală. Poate fi **expansionistă** (scăderea dobânzilor pentru a stimula creditul) sau **restrictivă** (pentru a opri inflația).
+* **Politica Fiscală:** Gestionată de Guvern prin taxe și cheltuieli publice. În criză, se aplică adesea **politici Keynesiene** (creșterea cheltuielilor pentru a compensa scăderea cererii private).
 
 ## 🧭 Navigare prin Istorie
 
