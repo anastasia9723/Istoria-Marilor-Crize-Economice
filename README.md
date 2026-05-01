@@ -1,18 +1,11 @@
-<!-- Imagine Centrată -->
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/4496dc0c-a3de-4b4a-b0a4-45cdc0098c40" width="1024" height="234" alt="Imagine Header" style="max-width: 100%; height: auto; border-radius: 8px;" />
-</div>
+<p align="center">
+<img width="1024" height="234" alt="image" src="https://github.com/user-attachments/assets/4496dc0c-a3de-4b4a-b0a4-45cdc0098c40" />
 
-<!-- Meniu Sub Imagine - Format Tabelar HTML Robust -->
-<div align="center" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px; border: 1px solid #e1e4e8; font-family: sans-serif; font-weight: bold; margin-bottom: 20px;">
-  <a href="README.md" style="color: #0366d6; text-decoration: none; margin: 0 10px;">PAGINA PRINCIPALA</a> | 
-  <a href="1907.md" style="color: #0366d6; text-decoration: none; margin: 0 10px;">CRIZA DIN 1907</a> | 
-  <a href="1929.md" style="color: #0366d6; text-decoration: none; margin: 0 10px;">MAREA DEPRESIUNE</a> | 
-  <a href="1973.md" style="color: #0366d6; text-decoration: none; margin: 0 10px;">CRIZA PETROLULUI</a> | 
-  <a href="2008.md" style="color: #0366d6; text-decoration: none; margin: 0 10px;">MAREA RECESIUNE</a>
-</div>
+| [**PAGINA PRINCIPALA**](README.md) | [CRIZA DIN 1907](1907.md) | [MAREA DEPRESIUNE](1929.md) | [CRIZA PETROLULUI](1973.md) | [MAREA RECESIUNE](2008.md) |
+| :---: | :---: | :---: | :---: | :---: |
 
 ---
+
 <h1 align="center">Crize Economice</h1>
 
 ### Anatomia Macroeconomică a Crizelor
