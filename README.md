@@ -1,4 +1,4 @@
-# 📉 Anatomia Macroeconomică a Crizelor
+## Anatomia Macroeconomică a Crizelor
 
 Bine ai venit pe platforma de analiză a marilor eșecuri economice. Acest site explorează mecanismele din spatele crizelor, transformând evenimentele istorice în lecții de teorie economică aplicată.
 
@@ -11,7 +11,7 @@ Din punct de vedere teoretic, o criză reprezintă o **perturbare violentă a ec
 <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/5bce45d3-01f3-4b08-9274-e0b425b84bb8" />
 
 
-### Triada Indicatorilor în Criză
+## Triada Indicatorilor în Criză
 Într-o criză, urmărim evoluția a trei variabile fundamentale:
 
 *   **PIB (Produsul Intern Brut):** Valoarea totală a bunurilor și serviciilor. În criză, PIB-ul scade (recesiune dacă scade timp de două trimestre consecutive), semnalând o contracție a activității.
@@ -25,7 +25,7 @@ Din punct de vedere teoretic, o criză reprezintă o **perturbare violentă a ec
 
 
 
-### Ciclul de Boom și Bust
+## Ciclul de Boom și Bust
 Economia funcționează în cicluri. O criză apare adesea după o perioadă de **expansiune nesustenabilă**:
 1. **Expansiunea:** Credit ieftin, investiții masive, optimism.
 2. **Vârful (Peak):** Apar "bulele" (prețuri nerealiste).
@@ -51,7 +51,7 @@ Atunci când "mâna invizibilă" eșuează, autoritățile intervin prin două p
 * **Politica Monetară:** Gestionată de Banca Centrală. Poate fi **expansionistă** (scăderea dobânzilor pentru a stimula creditul) sau **restrictivă** (pentru a opri inflația).
 * **Politica Fiscală:** Gestionată de Guvern prin taxe și cheltuieli publice. În criză, se aplică adesea **politici Keynesiene** (creșterea cheltuielilor pentru a compensa scăderea cererii private).
 
-## 🧭 Navigare prin Istorie
+##  Navigare prin Istorie
 
 Fiecare dintre crizele de mai jos reprezintă un eșec al unui mecanism economic specific. Alege una pentru a vedea analiza detaliată:
 
